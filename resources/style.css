@@ -1,0 +1,32 @@
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: blue;
+}
+a{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: blue;
+}
+h4{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: blue;
+}
+{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: blue;
+  background-color: dimgray;
+}
