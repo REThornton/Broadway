@@ -5,12 +5,13 @@ body{
 .container{
  position: relative;
  font-weight: bold;
- margin-top: 30px;
+ margin-top: 5px;
  height: 500px;
+ margin-bottom: -220px;
 }
 .Broadway{
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 50%;
   margin-top: -40px;
   transform: translate(-50%, -50%);
@@ -18,7 +19,6 @@ body{
 .container2{
  position: relative;
  font-weight: bold;
- height: ;
 }
 .Broadway2{
   position: absolute;
@@ -49,7 +49,7 @@ h3 {
 #main-title{
   font-size: 70px;
   font-weight: bold;
-  color: white;
+  color: ;
 }
 #links{
   font-size: 18px;
