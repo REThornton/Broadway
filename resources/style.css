@@ -5,15 +5,15 @@ body{
 .container{
  position: relative;
  font-weight: bold;
- margin-top: 5px;
+ margin-top: -10px;
  height: 500px;
- margin-bottom: -220px;
+ margin-bottom: -320px;
 }
 .Broadway{
   position: absolute;
   top: 30%;
   left: 50%;
-  margin-top: -40px;
+  margin-top: -65px;
   transform: translate(-50%, -50%);
 }
 .container2{
@@ -34,26 +34,25 @@ h4{
 p{
   font-size: 14px;
 }
-h5{
+h5, h3{
   font-size: 23px;
   font-weight: bold;
-}
-h3 {
-  font-size: 23px;
-  font-weight: bold;
-  color:
 }
 .copy{
   font-size: 11px;
 }
+.links{
+  font-size: 18px;
+  color: white;
+}
+a{
+  color: white;
+}
 #main-title{
   font-size: 70px;
   font-weight: bold;
-  color: ;
-}
-#links{
-  font-size: 18px;
   color: white;
+  margin-bottom: -5px;
 }
 footer{
   text-align:left;
